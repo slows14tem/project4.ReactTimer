@@ -15,6 +15,6 @@
     2. function 에는 return이 필수
     3. export default app name 필수
     4. html같아보이지만 jsx문법(ex> className='', <></> 등)
-    5. <app name />으로 생성한 컴포넌트를 App.js에 추가
+    5. 생성한 컴포넌트는 <app name />으로 App.js에 추가
     6. 추가한 컴포넌트는 import 필수
     7. 컴포넌트를 추가할 때 App.js의 돔 안에 추가해야함. 돔 밖에 추가할 경우 <></>로 감싸주기
