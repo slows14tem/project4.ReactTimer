@@ -1,7 +1,10 @@
 # React Timer Project
 https://slows14tem.github.io/project4_ReactTimer/
 
-# 리액트 프로젝트 생성 연습
+## 개요
+리액트를 사용하여 현재 시간을 출력하는 화면을 만들면서 리액트의 프로젝트를 생성하는 방법을 연습한다.
+
+# 리액트 프로젝트 생성
 
 ## 리액트 프로젝트 생성 순서
 
